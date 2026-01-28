@@ -1,6 +1,3 @@
-Based on the APU TalentLink System documentation provided in the file, here is a tailored README.md following the exact style and structure of the example you provided.
-
-I have customized the content to reflect the specific goals (digitalizing the internship process), tools (Prototyping/UML), and your specific role as found in the appendix.
 
 APU TalentLink System
 This project is a comprehensive system design and prototype developed for the APU TalentLink System, designed to centralize and digitalize the job placement process for students, employers, and the Career Services Centre (CSC).

@@ -1,44 +1,66 @@
+# APU TalentLink System
 
-APU TalentLink System
-This project is a comprehensive system design and prototype developed for the APU TalentLink System, designed to centralize and digitalize the job placement process for students, employers, and the Career Services Centre (CSC).
+This project is a comprehensive **system design and high-fidelity prototype** developed for the **APU TalentLink System**, aimed at centralizing and digitalizing the job placement process for students, employers, and the Career Services Centre (CSC).
 
-The project demonstrates the full Systems Development Life Cycle (SDLC), moving from problem analysis to high-fidelity prototyping using Agile methodologies.
+The project demonstrates the **full Systems Development Life Cycle (SDLC)**, progressing from problem analysis to system design and prototyping using **Agile methodologies**.
 
-🔗 Project Prototype & Documentation
-(https://www.figma.com/design/Ey0GaCe8PUfTxi42hZ6M5n/Employer?node-id=0-1&p=f)
+---
 
-(Note: If you have a Figma link or the PDF hosted, place it here. If not, you can remove this link section or link to this repository).
+## 🔗 Project Prototype & Documentation
 
-📌 Project Overview
+👉 https://www.figma.com/design/Ey0GaCe8PUfTxi42hZ6M5n/Employer?node-id=0-1&p=f
+
+This Figma prototype showcases the complete user flow and interface design for different system stakeholders.
+
+---
+
+## 📌 Project Overview
+
 The APU TalentLink System aims to:
 
-Digitalize the Process: Replace manual, paper-based job postings and email applications with a centralized database.
+- **Digitalize the Process**: Replace manual, paper-based job postings and email-based applications with a centralized system  
+- **Connect Stakeholders**: Create a seamless platform linking APU students, employers, and the CSC  
+- **Enhance Efficiency**: Automate application tracking, interview scheduling, and employer verification  
+- **Improve Accessibility**: Provide students with a user-friendly dashboard for profile, CV, and job management  
 
-Connect Stakeholders: Create a seamless bridge between APU Students, Employers, and the CSC.
+This project was developed as part of the **System Development Methods (CT046-3-2)** module.
 
-Enhance Efficiency: Automate application tracking, interview scheduling, and employer verification.
+---
 
-Improve Accessibility: Provide students with a user-friendly dashboard to manage profiles, CVs, and job searches.
+## 🚀 Key Features
 
-This project was developed as part of the System Development Methods (CT046-3-2) module.
+### Student Module
+- Job search with filters  
+- Profile and CV management  
+- Real-time application status tracking  
 
-🚀 Key Features
-Student Module: Job search with filters, profile & CV management, and real-time application status tracking.
+### Employer Module
+- Job vacancy posting  
+- Candidate shortlisting  
+- Automated interview scheduling  
 
-Employer Module: Job vacancy posting, candidate shortlisting, and automated interview scheduling.
+### CSC Module
+- Employer account verification  
+- Job posting approval  
+- System monitoring and oversight  
 
-CSC Module: Employer account verification, job posting approval, and system monitoring.
+---
 
-🛠 Methodologies & Tools Used
-Agile Scrum: utilized for iterative development and continuous feedback.
+## 🛠 Methodologies & Tools Used
 
-UML Modeling: Sequence, Class, Use Case, and Activity diagrams for system architecture.
+- **Agile Scrum** – Iterative development and continuous stakeholder feedback  
+- **UML Modeling** – Use Case, Class, Sequence, and Activity diagrams  
+- **UI/UX Design** – High-fidelity prototyping using Figma with user-centered design principles  
+- **Testing Strategies** – Unit, Integration, and System testing plans  
 
-UI/UX Design: High-fidelity prototyping (Figma) ensuring user-centered design principles.
+---
 
-Testing Strategies: Unit, Integration, and System testing plans.
+## 👩‍💻 Author
 
-👩‍💻 Author
-Chan Min Huey (TP083261) APU Student - Information Technology (FinTech)
+**Chan Min Huey (TP083261)**  
+APU Student – Information Technology (FinTech)
 
-Contribution: Planning Phase (Stakeholders/Scope), System Design (Sequence Diagrams - Apply Job), and Agile Methodology Reflection.
+**Contribution**:
+- Planning Phase (Stakeholders and Scope Definition)  
+- System Design (Sequence Diagram – Apply Job Process)  
+- Agile Methodology Reflection  
